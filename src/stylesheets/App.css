@@ -1,0 +1,11 @@
+.App {
+  margin: 2% auto;
+  width: 60%;
+  border: solid white;
+  padding: 3em;
+}
+
+.App h1 {
+  color: white;
+  font-size: 4em;
+}

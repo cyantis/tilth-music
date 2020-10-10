@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Vani';
+  src: local('Vani'), url(../assets/fonts/Vani.ttf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Vani';
+  font-weight: 900;
+  src: local('Vani'), url(../assets/fonts/Vanib.ttf) format('opentype');
+}
+
+body {
+  margin: 0;
+  font-family: Vani, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('../assets/images/background.png');
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
