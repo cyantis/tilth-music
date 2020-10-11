@@ -1,11 +1,12 @@
 .App {
   margin: 2% auto;
-  width: 60%;
-  border: solid white;
+  width: 70%;
+  background-color: rgba(88, 115, 76, 0.5);
   padding: 3em;
+  border-radius: 0.25em;
 }
 
 .App h1 {
-  color: white;
   font-size: 4em;
+  border-bottom: 1px rgba(34, 38, 34, 1) solid;
 }

@@ -5,6 +5,7 @@ const Section = (props) => {
   return (
     <div className='Section' id={props.id}>
       <p>{props.text}</p>
+      {props.player}
     </div>
   )
 }
