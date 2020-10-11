@@ -11,15 +11,13 @@
 
 body {
   margin: 0;
-  font-family: Vani, serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: Vani, serif;
+  color: rgba(242, 242, 242, 1);
   background-image: url('../assets/images/background.png');
-  /* Full height */
   height: 100vh;
-
-  /* Center and scale the image nicely */
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
 }
