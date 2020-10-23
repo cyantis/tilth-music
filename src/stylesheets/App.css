@@ -9,4 +9,10 @@
 .App h1 {
   font-size: 4em;
   border-bottom: 1px rgba(34, 38, 34, 1) solid;
+  margin-top: 0;
+}
+
+.App a {
+  text-decoration: none;
+  color: #e99708;
 }
