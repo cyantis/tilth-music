@@ -5,6 +5,9 @@ const Footer = () => {
   return (
     <div className='Footer'>
       <p>Hudson, New York | Arvada, Colorado</p>
+      <p>
+        <a href='mailto:cyantis@gmail.com'>Contact</a>
+      </p>
     </div>
   )
 }
