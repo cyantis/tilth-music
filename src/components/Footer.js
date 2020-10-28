@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='Footer'>
       <p>Hudson, New York | Arvada, Colorado</p>
       <p>
-        <a href='mailto:cyantis@gmail.com'>Contact</a>
+        <a href='mailto:tilthtrio@gmail.com'>Contact</a>
       </p>
     </div>
   )
