@@ -1,0 +1,9 @@
+.Header {
+  border-bottom: 1px rgba(34, 38, 34, 1) solid;
+}
+
+.Header p {
+  text-align: right;
+  margin: -4.75em 0 0.5em 0;
+  font-size: 1.5em;
+}

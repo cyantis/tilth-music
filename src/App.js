@@ -3,11 +3,12 @@ import './stylesheets/App.css'
 import Bio from './components/Bio.js'
 import Footer from './components/Footer.js'
 import Discography from './components/Discography'
+import Header from './components/Header'
 
 const App = () => {
   return (
     <div className='App'>
-      <h1>Tilth</h1>
+      <Header />
       <Bio id={'bio'} />
       <Discography id={'discography'} />
       <Footer />
